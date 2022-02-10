@@ -4,7 +4,13 @@
   
 <img src="./src/header.jpg" alt="banner image">
   
-I'm Deepesha Burse, currently pursuing a bachelor's degree in Computer Science and Business Systems at [Bharati Vidyapeeth, College of Engineering, Pune](https://bvuniversity.edu.in/). I have loved tech ever since I can remember, my first language was Java! Throughout my 2 years of college, I have explored Data Science, Web Development and basics of Cloud. Although still new to open-source, I am very fond of the culture and do my best to give back to a community that has given me so much! Outside of tech, I enjoy reading and listening to music.
+## A little about me: :sparkles:
+  
+- Pursuing a bachelor's degree in Computer Science and Business Systems at [Bharati Vidyapeeth, College of Engineering, Pune](https://bvuniversity.edu.in/).
+- Currently in my second year of engineering.
+- My first language was Java! 
+- Explored Data Science, Web Development and basics of Cloud. 
+- Enjoy reading and listening to music.
   
 ## Blogs:
 [2021 Wrapped](https://dev.to/deepeshaburse/2021-wrapped-1n41)
