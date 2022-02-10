@@ -9,8 +9,9 @@
 - Pursuing a bachelor's degree in Computer Science and Business Systems at [Bharati Vidyapeeth, College of Engineering, Pune](https://bvuniversity.edu.in/).
 - Currently learning JavaScript.
 - My first language was Java! 
-- Explored Data Science, Web Development and basics of Cloud. 
+- Exploring Data Science, Web Development and basics of Cloud. 
 - Enjoy reading and listening to music.
+- Pronouns: she/her
   
 ## Blogs:
 [2021 Wrapped](https://dev.to/deepeshaburse/2021-wrapped-1n41)
