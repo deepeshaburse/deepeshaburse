@@ -7,7 +7,7 @@
 ## A little about me: :sparkles:
   
 - Pursuing a bachelor's degree in Computer Science and Business Systems at [Bharati Vidyapeeth, College of Engineering, Pune](https://bvuniversity.edu.in/).
-- Currently in my second year of engineering.
+- Currently learning JavaScript.
 - My first language was Java! 
 - Explored Data Science, Web Development and basics of Cloud. 
 - Enjoy reading and listening to music.
