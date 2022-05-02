@@ -14,9 +14,9 @@
 - Pronouns: she/her
   
 ## Blogs:
-[2021 Wrapped](https://dev.to/deepeshaburse/2021-wrapped-1n41)
+[Introduction to CNN](https://dev.to/deepeshaburse/introduction-to-cnn-1i03)
   
-[My First PR](https://dev.to/deepeshaburse/my-first-pr-7mg)
+[How Does LSTM Work](https://dev.to/deepeshaburse/how-does-lstm-work-475)
   
 [Not Feeling Like You're Enough When in Tech](https://dev.to/deepeshaburse/not-feeling-like-enough-when-in-tech-234c)
   
