@@ -7,20 +7,20 @@
 ## A little about me: :sparkles:
   
 - Pursuing a bachelor's degree in Computer Science and Business Systems at [Bharati Vidyapeeth, College of Engineering, Pune](https://bvuniversity.edu.in/).
-- Currently learning JavaScript.
-- My first language was Java! 
-- Exploring Data Science, Web Development and basics of Cloud. 
+- Currently learning about Cloud-Native softwares. 
 - Enjoy reading and listening to music.
 - Pronouns: she/her
   
 ## Blogs:
+[Cloud Native Networking using eBPF](https://dev.to/deepeshaburse/cloud-native-networking-using-ebpf-4p9h)
+  
+[What is eBPF?](https://dev.to/deepeshaburse/what-is-ebpf-2bkb)
+  
 [Introduction to CNN](https://dev.to/deepeshaburse/introduction-to-cnn-1i03)
   
 [How Does LSTM Work](https://dev.to/deepeshaburse/how-does-lstm-work-475)
   
 [Not Feeling Like You're Enough When in Tech](https://dev.to/deepeshaburse/not-feeling-like-enough-when-in-tech-234c)
-  
-[Getting Started with Python](https://dev.to/deepeshaburse/getting-started-with-python-3a7a)
   
 ## GitHub Stats:
   
